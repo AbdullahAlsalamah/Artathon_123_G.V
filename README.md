@@ -6,6 +6,7 @@ The model works as the following. It is presented with an art image with some st
 The links for the source code and research paper;
 *The code 
 https://pytorch.org/tutorials/advanced/neural_style_tutorial.html
+
 *The research paper
 https://arxiv.org/abs/1508.06576
 
